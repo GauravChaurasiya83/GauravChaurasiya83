@@ -31,6 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravChaurasiya83&show_icons=true&locale=en" alt="GauravChaurasiya83" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravChaurasiya83&" alt="GauravChaurasiya83" /></p>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/GauravChaurasiya83?tab=repositories)!
